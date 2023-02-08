@@ -6,4 +6,4 @@
 5-list long format, with hidden and showing group users
 6-creates a directory in the /tmp directory
 7-Move the file betty from /tmp/ to /tmp/my_first_directory
-
+8-delete the file betty
