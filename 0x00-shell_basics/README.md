@@ -1,3 +1,4 @@
-1-print the path of the current directory
-2-list the content of the current directory
-3-changes the working directory to the home directory
+0-print the path of the current directory
+1-list the content of the current directory
+2-changes the working directory to the home directory
+3-long format list of the current directory's content
