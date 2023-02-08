@@ -7,3 +7,8 @@
 6-creates a directory in the /tmp directory
 7-Move the file betty from /tmp/ to /tmp/my_first_directory
 8-delete the file betty
+9-Delete the directory my_first_directory that is in the /tmp directory.
+
+
+
+
